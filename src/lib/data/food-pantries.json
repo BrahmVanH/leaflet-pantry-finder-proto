@@ -1,0 +1,654 @@
+{
+	"type": "FeatureCollection",
+	"generator": "manual-conversion",
+	"copyright": "Data provided by user",
+	"timestamp": "2025-03-17T00:00:00Z",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alger Community Food Pantry",
+				"address": "414 E. Munising Ave.",
+				"city": "Munising",
+				"state": "MI",
+				"zip": "49862",
+				"county": "Alger",
+				"phone": "(906) 450-2390",
+				"email": "algercommunityfoodpantry@gmail.com",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.643853, 46.411372]
+			},
+			"id": "alger-community-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "SVdP Munising Food Pantry",
+				"address": "413 Maple St.",
+				"city": "Munising",
+				"state": "MI",
+				"zip": "49862",
+				"county": "Alger",
+				"phone": "906-387-3496",
+				"email": "svdp@svdpup.org",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.650837, 46.410876]
+			},
+			"id": "svdp-munising-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Escanaba Salvation Army Food Pantry",
+				"address": "3001 5th Ave. South",
+				"city": "Escanaba",
+				"state": "MI",
+				"zip": "49829",
+				"county": "Delta",
+				"phone": "(906) 786-0590",
+				"email": "wum.escanaba@usc.salvationarmy.org",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.074558, 45.744169]
+			},
+			"id": "escanaba-salvation-army-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Escanaba Seventh Day Adventist Pantry",
+				"address": "210 S. Lincoln Rd",
+				"city": "Escanaba",
+				"state": "MI",
+				"zip": "49829",
+				"county": "Delta",
+				"phone": "(906) 212-2272",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.069233, 45.750831]
+			},
+			"id": "escanaba-seventh-day-adventist-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Escanaba SVdP District Food Pantry",
+				"address": "115 N. 8th St.",
+				"city": "Escanaba",
+				"state": "MI",
+				"zip": "49829",
+				"county": "Delta",
+				"phone": "(906) 789-1434",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.059772, 45.745417]
+			},
+			"id": "escanaba-svdp-district-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Bay College Student Pantry Bay DeNoc",
+				"address": "2001 N Lincoln Road",
+				"city": "Escanaba",
+				"state": "MI",
+				"zip": "49829",
+				"county": "Delta",
+				"phone": "(906) 217-4014",
+				"email": "FoodPantryESC@baycollege.edu",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.068893, 45.779554]
+			},
+			"id": "bay-college-student-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Escanaba Senior Center/MDS Human Resource Authority",
+				"address": "225 N 21st Street",
+				"city": "Escanaba",
+				"state": "MI",
+				"zip": "49829",
+				"county": "Delta",
+				"phone": "(906) 786-8850",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.089953, 45.746532]
+			},
+			"id": "escanaba-senior-center"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "All Saints SVdP Food Pantry",
+				"address": "816 Delta Ave.",
+				"city": "Gladstone",
+				"state": "MI",
+				"zip": "49837",
+				"county": "Delta",
+				"phone": "(906) 428-1234",
+				"email": "svdpgladstonere@yahoo.com",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.026756, 45.850891]
+			},
+			"id": "all-saints-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gladstone Senior Center/MDS Human Resource Authority",
+				"address": "303 N. 8th St",
+				"city": "Gladstone",
+				"state": "MI",
+				"zip": "49837",
+				"county": "Delta",
+				"phone": "(906)428-2201",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.022547, 45.853647]
+			},
+			"id": "gladstone-senior-center"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Faith Lutheran Church Food Pantry",
+				"address": "PO Box 227",
+				"city": "Rock",
+				"state": "MI",
+				"zip": "49880",
+				"county": "Delta",
+				"phone": "(906) 356-6226",
+				"email": "faithlc.rock@gmail.com",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.127875, 46.045117]
+			},
+			"id": "faith-lutheran-church-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Vincent de Paul",
+				"address": "PO Box 494",
+				"city": "Iron Mountain",
+				"state": "MI",
+				"zip": "49801",
+				"county": "Dickinson",
+				"phone": "",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.057436, 45.826729]
+			},
+			"id": "st-vincent-de-paul-iron-mountain-po"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Vincent de Paul - Iron Mountain",
+				"address": "117 West A Street",
+				"city": "Iron Mountain",
+				"state": "MI",
+				"zip": "49801",
+				"county": "Dickinson",
+				"phone": "",
+				"email": "svdpimfoodpantry@gmail.com",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.066142, 45.823478]
+			},
+			"id": "st-vincent-de-paul-iron-mountain"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "First Evangelical Lutheran Church - Backpack Program & Pantry",
+				"address": "1210 S Stephenson Ave",
+				"city": "Iron Mountain",
+				"state": "MI",
+				"zip": "49801",
+				"county": "Dickinson",
+				"phone": "906-774-0133",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.067156, 45.809651]
+			},
+			"id": "first-evangelical-lutheran-church"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Bay West Student Food Community/Bay De Noc Comm College",
+				"address": "2801 US 2",
+				"city": "Iron Mountain",
+				"state": "MI",
+				"zip": "49801",
+				"county": "Dickinson",
+				"phone": "(906) 302-3006",
+				"email": "FoodPantryIM@baycollege.edu",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.104743, 45.814372]
+			},
+			"id": "bay-west-student-food-community"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Denim Heart Thrift and Pantry",
+				"address": "621 N Hooper St.",
+				"city": "Kingsford",
+				"state": "MI",
+				"zip": "49802",
+				"county": "Dickinson",
+				"phone": "906-774-2256, x222",
+				"email": "ksommerfeld@dicsami.org",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.063453, 45.810413]
+			},
+			"id": "denim-heart-thrift-and-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salvation Army - Kingsford",
+				"address": "145 Roseland Street",
+				"city": "Kingsford",
+				"state": "MI",
+				"zip": "49802",
+				"county": "Dickinson",
+				"phone": "(906) 779-5717",
+				"email": "tara.coss@usc.salvationarmy.org",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.072742, 45.800881]
+			},
+			"id": "salvation-army-kingsford"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maranatha Assembly of God",
+				"address": "917 Pyle Drive",
+				"city": "Kingsford",
+				"state": "MI",
+				"zip": "49802",
+				"county": "Dickinson",
+				"phone": "(906)774-7877",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.067798, 45.792581]
+			},
+			"id": "maranatha-assembly-of-god"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Norway Food Pantry c/o Grace United Methodist Church",
+				"address": "130 O Dill Drive",
+				"city": "Norway",
+				"state": "MI",
+				"zip": "49870",
+				"county": "Dickinson",
+				"phone": "906-563-8225",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.906143, 45.792519]
+			},
+			"id": "norway-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Barbara & St. Mary SVDP Food Pantry",
+				"address": "431 Main St.",
+				"city": "Norway",
+				"state": "MI",
+				"zip": "49870",
+				"county": "Dickinson",
+				"phone": "906-563-7302",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.913437, 45.788645]
+			},
+			"id": "st-barbara-st-mary-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Guardian Angels SVDP Food Pantry",
+				"address": "11 N Fifth St.",
+				"city": "Crystal Falls",
+				"state": "MI",
+				"zip": "49920",
+				"county": "Iron",
+				"phone": "906-874-0171",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.333637, 46.097152]
+			},
+			"id": "guardian-angels-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Agnes & St. Cecilia SVDP Food Pantry",
+				"address": "313 Genesee St.",
+				"city": "Iron River",
+				"state": "MI",
+				"zip": "49935",
+				"county": "Iron",
+				"phone": "906-265-9390",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.638512, 46.095173]
+			},
+			"id": "st-agnes-st-cecilia-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cornerstone Bible Church of the Paw",
+				"address": "611 Jefferson",
+				"city": "Iron River",
+				"state": "MI",
+				"zip": "49935",
+				"county": "Iron",
+				"phone": "906-265-9390",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.638754, 46.090921]
+			},
+			"id": "cornerstone-bible-church-of-the-paw"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Anthony SVdP Food Pantry",
+				"address": "PO Box 766, 111 N. Pine St.",
+				"city": "Gwinn",
+				"state": "MI",
+				"zip": "49841",
+				"county": "Marquette",
+				"phone": "906 346-2402",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.437519, 46.281962]
+			},
+			"id": "st-anthony-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Hope Free Church",
+				"address": "795 North Lake Rd",
+				"city": "Ishpeming",
+				"state": "MI",
+				"zip": "49849",
+				"county": "Marquette",
+				"phone": "(906) 485-5714",
+				"email": "secretary@hopefreelutheran.org",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.662943, 46.502321]
+			},
+			"id": "hope-free-church"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. John SVdP Food Pantry",
+				"address": "322 Cleveland, PO Box #2",
+				"city": "Ishpeming",
+				"state": "MI",
+				"zip": "49849",
+				"county": "Marquette",
+				"phone": "906-486-6340",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.667512, 46.487923]
+			},
+			"id": "st-john-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mother Olga Food Pantry",
+				"address": "700 E. North st",
+				"city": "Ishpeming",
+				"state": "MI",
+				"zip": "49849",
+				"county": "Marquette",
+				"phone": "906-360-0664",
+				"email": "dbays3625@yahoo.com",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.659126, 46.491438]
+			},
+			"id": "mother-olga-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "NMU Marquette Ending Hunger - NMU Food Pantry",
+				"address": "1401 Presque Isle",
+				"city": "Marquette",
+				"state": "MI",
+				"zip": "49855",
+				"county": "Marquette",
+				"phone": "",
+				"email": "foodpantry@nmu.edu",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.403587, 46.562835]
+			},
+			"id": "nmu-marquette-ending-hunger"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salvation Army - Marquette & Ishpeming",
+				"address": "1009 W. Baraga",
+				"city": "Marquette",
+				"state": "MI",
+				"zip": "49855",
+				"county": "Marquette",
+				"phone": "(906) 226-2241",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.402843, 46.542173]
+			},
+			"id": "salvation-army-marquette-ishpeming"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Vincent de Paul - Marquette",
+				"address": "2119 Presque Isle Ave.",
+				"city": "Marquette",
+				"state": "MI",
+				"zip": "49855",
+				"county": "Marquette",
+				"phone": "906-226-3840",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.390825, 46.569482]
+			},
+			"id": "st-vincent-de-paul-marquette"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Silver Creek Thrift Community Food Pantry",
+				"address": "219 Silver Creek Rd",
+				"city": "Marquette",
+				"state": "MI",
+				"zip": "49855",
+				"county": "Marquette",
+				"phone": "(906) 273-2473",
+				"email": "jim@silvercreekchurch.org",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.460125, 46.534582]
+			},
+			"id": "silver-creek-thrift-community-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "SVDP Food Pantry Negaunee",
+				"address": "211 Iron St.",
+				"city": "Negaunee",
+				"state": "MI",
+				"zip": "49866",
+				"county": "Marquette",
+				"phone": "906-475-4284",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.605843, 46.502127]
+			},
+			"id": "svdp-food-pantry-negaunee"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Augustine SVdP Food Pantry",
+				"address": "322 Kloman Ave",
+				"city": "Republic",
+				"state": "MI",
+				"zip": "49879",
+				"county": "Marquette",
+				"phone": "906-376-8207",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.979126, 46.409784]
+			},
+			"id": "st-augustine-svdp-food-pantry"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Good Neighbor Services",
+				"address": "200 Deer St.",
+				"city": "Manistique",
+				"state": "MI",
+				"zip": "49854",
+				"county": "Schoolcraft",
+				"phone": "(906) 341-3927",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.249736, 45.957462]
+			},
+			"id": "good-neighbor-services"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "St. Francis de Sales SVdP Food Pantry",
+				"address": "PO Box 351, 231 S. Cedar St.",
+				"city": "Manistique",
+				"state": "MI",
+				"zip": "49854",
+				"county": "Schoolcraft",
+				"phone": "906-341-8181",
+				"email": "",
+				"status": "Active"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.246921, 45.957018]
+			},
+			"id": "st-francis-de-sales-svdp-food-pantry"
+		}
+	]
+}
